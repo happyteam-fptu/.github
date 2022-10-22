@@ -3,16 +3,13 @@
 Chúng mình là một nhóm các sinh viên ngành `Kỹ thuật phần mềm 💻` đến từ `Trường Đại học FPT Hà Nội`, với một mong muốn nho nhỏ là cải thiện sự đoàn kết của một lớp học.
 
 ## Về dự án Happy Class - Haca
-Đại học là nơi học tập và giảng dạy của các lĩnh vực chuyên sâu, đây cũng là nơi tập hợp của những con người đến từ nhiều nơi và nhiều độ tuổi khác nhau. Thấy được sự khác biệt đó cùng với lịch học căng thẳng tại môi trường sư phạm, chúng tôi, Happy Team, đã cùng nhau xây dựng dự án Happy Class để có thể giúp đỡ mọi thành viên kết bạn, gắn kết với nhau dễ dàng hơn.
+Đại học là nơi học tập và giảng dạy của các lĩnh vực chuyên sâu, đây cũng là nơi tập hợp của những con người đến từ nhiều nơi và nhiều độ tuổi khác nhau. Thấy được sự khác biệt đó cùng với lịch học căng thẳng tại môi trường sư phạm, chúng mình, Happy Team, đã cùng nhau xây dựng dự án Happy Class để có thể giúp đỡ mọi thành viên kết bạn, gắn kết với nhau dễ dàng hơn.
 
-Có lẽ bây giờ ai cũng có cho mình một chiếc điện thoại thông minh nên hầu hết mọi người đều chăm chú vào các mạng xã hội, game…
+Có lẽ bây giờ ai cũng có cho mình một chiếc điện thoại thông minh nên hầu hết mọi người đều chăm chú vào các mạng xã hội, game… Do đó chúng ta đã quên mất những bài tập về nhà, deadline, lời nhắc nhở của cô giáo và ít giao tiếp, làm quen kết bạn với mọi người xung quanh và sau khi học xong đại học chúng ta có rất ít những kỉ niệm với nhau.
 
-Do đó chúng ta đã quên mất những bài tập về nhà, deadline, lời nhắc nhở của cô giáo và ít giao tiếp, làm quen kết bạn với mọi người xung quanh và sau khi học xong đại học chúng ta có rất ít những kỉ niệm với nhau.
-
-Đó chính là lý do nhóm Happy Team chúng tôi cùng nhau xây dựng nên ứng dụng Happy Class để mọi người có thể cùng nhau giải tỏa sau giờ học căng thẳng bằng các tính năng trong app, cùng với đó cũng không quên những việc gì mình được giao và phải hoàn thành.
+Đó chính là lý do nhóm Happy Team chúng mình cùng nhau xây dựng nên ứng dụng Happy Class để mọi người có thể cùng nhau giải tỏa sau giờ học căng thẳng bằng các tính năng trong app, cùng với đó cũng không quên những việc gì mình được giao và phải hoàn thành.
 
 Với mô hình của Happy Class, học sinh và sinh viên cũng có thể chia sẻ được những khoảnh khắc của mình với các bạn trong lớp để tạo ra thật nhiều những khoảnh khắc đáng nhớ trong độ tuổi còn đi học của mình.
-
 
 ### Tính năng của HACA
 - Tra cứu thông tin của học sinh, sinh viên.
